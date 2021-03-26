@@ -10,6 +10,8 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nyeongmin-lee-625193175/)
 
+<br />
+
 ## 🤹🏻 Skills
 
 ### 📊 Data
@@ -32,6 +34,8 @@
 - Github
 - Dialogflow
 
+<br />
+
 ## Education
 
 ### 👩🏻‍🎓 BEng(EngSc) in Computing & Data Analytics, The University of Hong Kong
@@ -39,6 +43,8 @@
 Double Major : Energy Engineering
 
 Will graduate in 2021
+
+<br />
 
 ## Projects
 
@@ -60,6 +66,8 @@ FICO data - [Github repo](https://github.com/fl-ada/FICO\)
 - Data analysis
 - Data interpretation using different classifier models
 - Model selection & interpretability analysis
+
+<br />
 
 ---
 
