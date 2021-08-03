@@ -18,7 +18,7 @@
 
 - Python(Jupyter)
     - Pandas / Numpy / etc.
-    - Tensorflow
+    - Tensorflow / Pytorch
 - SQL
 - R
 - MATLAB
@@ -43,6 +43,29 @@
 Double Major : Energy Engineering
 
 Will graduate in 2021
+
+<br />
+
+## Job experience
+
+### Running DS(DL) competitions (2021~)
+
+#### Image
+
+- Segmentation
+- Object detection
+
+#### NLP
+
+- Classification
+- Summarization
+
+#### Numerical Data
+
+- Classification
+- Prediction / Forecasting
+- Time series
+- AI bias
 
 <br />
 
@@ -71,6 +94,6 @@ FICO data - [Github repo](https://github.com/fl-ada/FICO\)
 
 ---
 
-### I am looking for interesting positions! [Contact](mailto:nyeongminlee@gmail.com)
+### Interest interesting projects! [Contact](mailto:nyeongminlee@gmail.com)
 
 👋 Thanks for reading!
