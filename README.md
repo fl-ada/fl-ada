@@ -83,7 +83,7 @@ Working on... (Python, Tableau)
 
 ### Machine Learning
 
-FICO data - [Github repo](https://github.com/fl-ada/FICO\)
+FICO data - [Github repo](https://github.com/fl-ada/FICO)
 
 - Data modeling
 - Data analysis
