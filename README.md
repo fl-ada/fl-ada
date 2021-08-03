@@ -94,6 +94,6 @@ FICO data - [Github repo](https://github.com/fl-ada/FICO)
 
 ---
 
-### Interest interesting projects! [Contact](mailto:nyeongminlee@gmail.com)
+### Interest in interesting projects! [Contact](mailto:nyeongminlee@gmail.com)
 
 👋 Thanks for reading!
